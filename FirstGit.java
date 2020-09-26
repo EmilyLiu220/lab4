@@ -2,6 +2,7 @@ public class HelloWorld {
 
 	private int conflict;
 	private float newConflict;
+	private String name;
 	private String subName;
 
     public static void main(String[] args) {
