@@ -1,6 +1,6 @@
 public class HelloWorld {
 
-	private float conflict;
+	private int conflict;
 
     public static void main(String[] args) {
 
