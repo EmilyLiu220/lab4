@@ -3,7 +3,7 @@ public class HelloWorld {
 	private int conflict;
 	private float newConflict;
 	private String name;
-	private String subName;
+	private String subName; // sub-title
 
     public static void main(String[] args) {
 
