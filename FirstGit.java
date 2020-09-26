@@ -1,7 +1,7 @@
 public class HelloWorld {
 
 	private int conflict;
-	private int newconflict;
+	private float newconflict;
 
     public static void main(String[] args) {
 
